@@ -3,3 +3,5 @@ Sorting Algorithms | Selection Sort, Bubble Sort, Insertion Sort, Merge Sort and
 
 ## Insertion Sort
 
+![](insertionSort/src/insertionSort.gif)
+
