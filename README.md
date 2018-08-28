@@ -7,7 +7,7 @@ Sorting Algorithms | Selection Sort, Bubble Sort, Insertion Sort, Merge Sort and
 
 ## Bubble Sort
 
-![](bubbleSort/src/insertionSort.gif)
+![](bubbleSort/src/bubbleSort.gif)
 
 ## Selection Sort
 
